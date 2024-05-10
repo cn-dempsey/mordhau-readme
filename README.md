@@ -8,4 +8,6 @@ This server is hosted by **HyperSpeed Hosting** which is offering Mordhau player
 
 
 ### Links
-<a id="Hyperlink example - Mordhau Discord">https://discord.gg/mordhau</>
+[YADS Discord]https://discord.gg/xU6bs9aJMg
+[HyperSpeed Hosting Discord]https://discord.gg/vsEUwsEjDF
+[HyperSpeed Hosting Website]https://hyspeedhosting.com
