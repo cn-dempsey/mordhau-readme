@@ -3,6 +3,11 @@
 **Blah blah blah, typical duels rules- just don't be a dumbass. If you have an issue with a player start a votekick.**
 *If there is a player in the server with moderator privileges and they see disruptive behavior- they'll remove the member from the server.*
 
+### Want a quieter place to duel or interested in 2v2 or 3v3 fights?
+I've got a skirmish server setup to where if you're looking for a quieter or more organized place- that's probably the place you'll want to go to.
+- Server Name: YADs Skirmish (128 tick)
+- 12MB worth of mods, these are Steedie's maps.
+
 ### Suggestions?
 DM them to me @serlaugh (or through Steam) or feel free to join the Discord server to voice any concerns or suggestions. Thanks!
 
